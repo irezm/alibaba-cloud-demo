@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+*.iml
+*.class
+/bcw-cloud-base/bcw-cloud-config/src/main/resources/application.yml
+*rebel.xml
+*.bak
+*generatorConfig.xml
+
+target
